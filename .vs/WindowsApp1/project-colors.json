@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ac282ab2-20d9-4d98-b5ec-19e21eb73bfe": {
+      "ProjectGuid": "ac282ab2-20d9-4d98-b5ec-19e21eb73bfe",
+      "DisplayName": "WindowsApp1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
